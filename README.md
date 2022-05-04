@@ -1,9 +1,8 @@
 ---
-title: "Markdown Progress/Guide"
+title: ""
 author: "Jonathan Strasshofer"
 date: '2022-05-04'
 output: 
-  html_document:
     theme: darkly
     toc: true
     toc_float: true
